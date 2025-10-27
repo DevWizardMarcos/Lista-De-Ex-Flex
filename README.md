@@ -96,6 +96,52 @@ Sinta-se à vontade para explorar, adaptar e sugerir melhorias! 🚀
 
 ---
 
+
+------
+
+WHILE 
+
+Bem-vindo à segunda coleção de desafios práticos com o laço while! Estes exercícios
+ampliam os conceitos vistos anteriormente, incluindo simulações, controle de fluxo, lógica
+de jogos e aplicações cotidianas.
+
+1. Controle de Combustível
+Simule um posto de gasolina. O usuário escolhe o tipo de combustível (gasolina, etanol,
+diesel) e a quantidade de litros. Repita até que o usuário digite 'sair'. Objetivo: Somar litros
+e valores totais de cada tipo. Calcular o valor geral a pagar.
+
+2. Caixa Eletrônico Inteligente
+O usuário informa um valor de saque, e o programa 'distribui' as notas de 100, 50, 20, 10
+e 5. Use apenas while e subtrações sucessivas.
+
+3. Controle de Tempo de Uso
+Peça quanto tempo o usuário passou no celular por dia (em horas). Continue até digitar 0.
+No final, mostre a média e se ultrapassou o limite diário.
+
+4. Pedra, Papel e Tesoura — Loop Infinito
+Implemente o jogo clássico até o jogador digitar 'sair'. Mostre o placar de vitórias, derrotas
+e empates.
+
+7. Registro de Temperaturas
+Leia várias temperaturas até o usuário digitar 'fim'. Mostre média, maior e menor
+temperatura e quantas ficaram acima da média.
+8. Login com Bloqueio Temporário
+Peça login e senha até acertar ou errar 3 vezes. Se errar 3 vezes, mostre uma contagem
+regressiva de 10 segundos (simulação de bloqueio).
+9. Gerador de Tabuada Dinâmica
+10. 
+O usuário digita um número e o programa mostra a tabuada de 1 a 10. Depois pergunta
+se deseja outra. Sai apenas com 'não'.
+11. Simulador de Economia Pessoal
+Permita registrar ganhos e gastos até digitar 'encerrar'. Mostre saldo final, total de
+transações e entradas/saídas.
+12. Adivinha o Número Misterioso (com Dicas)
+O programa escolhe um número aleatório. Dê dicas progressivas conforme a distância do
+palpite ('quase lá', 'muito longe').
+13. Roda dos Desafios Aleatórios
+A cada rodada, sorteie um desafio textual (ex: 'Digite um número par!'). Continue até o
+jogador errar ou desistir.
+
 ## 🏆 Projetos Destaque
 
 ### 🎲 Adivinhe o Número
@@ -152,7 +198,7 @@ Sinta-se à vontade para explorar, adaptar e sugerir melhorias! 🚀
 
 ## 📚 Referências & Inspirações
 
-- Exercícios criados para estimular o raciocínio lógico e prático no uso de Python.
+- Exercícios criados para estimular o raciocínio lógico e prático no uso de Python*
 - Sugestões da comunidade são bem-vindas!
 
 ---
