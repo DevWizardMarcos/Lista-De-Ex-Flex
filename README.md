@@ -276,3 +276,160 @@ FOR
 ---
 
 Esses exercícios simulam tarefas que você pode encontrar na vida profissional, em sistemas reais, ou no dia a dia. Use o for para processar listas, analisar dados e gerar relatórios úteis!
+
+📦 PROJETOS REAIS USANDO LISTAS, TUPLAS, DICIONÁRIOS E SETS
+1️⃣ Sistema de Lista de Compras Inteligente (Listas + Sets)
+
+Funcionalidades:
+
+Adicionar itens
+
+Remover itens
+
+Evitar itens repetidos (set)
+
+Salvar e carregar lista
+
+Mostrar orçamento total (lista de preços)
+
+Útil para: compras mensais, mercado, estoque pessoal.
+
+2️⃣ Gerenciador de Tarefas com Prioridades (Dicionários + Listas)
+
+Funcionalidades:
+
+Tarefa → {descrição, prioridade, data, status}
+
+Mostrar tarefas pendentes
+
+Ordenar por prioridade
+
+Marcar como concluída
+
+Exportar relatório
+
+Útil para: estudos, trabalho, rotina.
+
+3️⃣ Controle de Estoque Simples (Dicionários + Tuplas)
+
+Funcionalidades:
+
+produto → (quantidade, preço)
+
+alerta quando quantidade < 3
+
+valor total do estoque
+
+adicionar/retirar itens
+
+busca por nome
+
+Útil para: pequenos negócios, artesanato, loja online.
+
+4️⃣ Agenda de Contatos com Busca Avançada (Dicionários + Sets)
+
+Funcionalidades:
+
+nome → dados pessoais (telefone, email, cidade)
+
+buscar por parte do nome
+
+bloquear contatos em uma black list (set)
+
+exportar para arquivo
+
+Útil para: contatos profissionais e pessoais.
+
+5️⃣ Gerador de Cardápio da Semana (Tuplas + Listas + Sets)
+
+Funcionalidades:
+
+lista de refeições disponíveis
+
+set de restrições (sem lactose, sem carne etc.)
+
+gerar cardápio aleatório semanal
+
+evitar repetir pratos
+
+salvar escolhas anteriores
+
+Útil para: dieta, organização pessoal, rotina fitness.
+
+6️⃣ Sistema de Presença de Alunos (Sets)
+
+Funcionalidades:
+
+alunos_presentes = set()
+
+adicionar presença
+
+identificar ausentes (diferença entre sets)
+
+exportar boletim de presença
+
+calcular taxa de presença
+
+Útil para: cursos, workshops, escolas.
+
+7️⃣ Gerenciador de Finanças Pessoais (Listas + Dicionários)
+
+Funcionalidades:
+
+lista de transações → {valor, categoria, data, tipo}
+
+relatório mensal
+
+categorias mais gastas
+
+gastos recorrentes
+
+metas financeiras
+
+Útil para: controle de gastos diário.
+
+8️⃣ Catálogo de Produtos com Filtros (Dicionários + Sets)
+
+Funcionalidades:
+
+produto → dados (preço, categoria, estoque)
+
+filtrar por categoria
+
+mostrar categorias disponíveis (set)
+
+adicionar e remover produtos
+
+Útil para: loja online, artesanato, revenda.
+
+9️⃣ Organizador de Estudos (Listas + Dicionários)
+
+Funcionalidades:
+
+matérias → {conteúdos, tempo de estudo, nível de dificuldade}
+
+recomendação do que estudar hoje
+
+gráfico de progresso
+
+revisão inteligente
+
+Útil para: faculdade, cursos, Enem.
+
+🔟 Sistema de Cadastro de Filmes/Séries (Dicionários + Sets + Tuplas)
+
+Funcionalidades:
+
+filme → {gêneros (set), ano, nota, plataforma}
+
+buscar por gênero
+
+recomendação de filmes com base no que você já viu
+
+evitar filmes duplicados (set)
+
+ranking de favoritos
+
+Útil para: Netflix, Prime, catálogo pessoal.
+
+
