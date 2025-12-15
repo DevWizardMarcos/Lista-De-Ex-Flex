@@ -1,8 +1,21 @@
-# 🧠 Lista-De-Ex-Flex
+<div align="center">
 
-Bem-vindo à **Lista-De-Ex-Flex**! 🎓
+![](.github/banner.svg)
+
+### 🎓 Repositório Completo de Exercícios Python para Modalidade Flex
+
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Exercises](https://img.shields.io/badge/Exercícios-181+-green?style=for-the-badge)](exercicios/)
+[![Projects](https://img.shields.io/badge/Projetos-25+-blue?style=for-the-badge)](projetos/)
+[![License](https://img.shields.io/badge/License-Educational-yellow?style=for-the-badge)](LICENSE)
+
+**Bem-vindo à Lista-De-Ex-Flex!** 🚀
 
 Repositório de exercícios práticos de Python organizados por tópicos para estudantes da modalidade **Flex**. Aqui você encontra centenas de exercícios para treinar desde o básico até conceitos avançados, além de projetos práticos completos.
+
+[📚 Ver Exercícios](exercicios/) • [🏆 Ver Projetos](projetos/) • [📖 Recursos](recursos/)
+
+</div>
 
 ---
 

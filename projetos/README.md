@@ -1,6 +1,17 @@
+<div align="center">
+
 # 🏆 Projetos Práticos
 
+### Aplique Seus Conhecimentos em Projetos Reais
+
+[![Projetos](https://img.shields.io/badge/Total-25+-blue?style=flat-square)](.)
+[![Dificuldade](https://img.shields.io/badge/Nível-Iniciante%20a%20Avançado-green?style=flat-square)](.)
+
 Projetos completos para aplicar todos os conceitos aprendidos.
+
+[← Voltar ao Índice Principal](../README.md)
+
+</div>
 
 ---
 

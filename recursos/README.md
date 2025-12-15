@@ -1,6 +1,17 @@
+<div align="center">
+
 # 📚 Recursos e Referências
 
+### Material Complementar de Apoio aos Estudos
+
+[![Guias](https://img.shields.io/badge/Guias-Completos-orange?style=flat-square)](.)
+[![Referencias](https://img.shields.io/badge/Referências-Rápidas-purple?style=flat-square)](.)
+
 Material complementar para auxiliar nos estudos.
+
+[← Voltar ao Índice Principal](../README.md)
+
+</div>
 
 ---
 
